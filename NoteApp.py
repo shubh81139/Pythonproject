@@ -96,30 +96,3 @@ text_area.config(yscrollcommand=scroll.set)
 
 # Run the main application loop
 root.mainloop()
-
-
-
-
-
-
-
-
-
-
-
-
-
-# from tkinter import *
-
-# root =Tk()
-# root.geometry("455x233")
-# root.title("Note App")
-# # root.wm_iconbitmap("D:\Python\note appp.ico")  # This step id used to add icon and it should be ico file.
-
-# root.configure(background="beige")               # This is used to set the background color. 
-
-
-
-# Button(text="Close",command=root.destroy).pack(anchor=E)       # root.destroy help to close the GUI.
-
-# root.mainloop()
